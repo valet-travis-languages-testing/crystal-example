@@ -1,0 +1,5 @@
+language: crystal
+crystal:
+  - latest
+  - nightly
+  - 0.35.1
